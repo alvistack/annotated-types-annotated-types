@@ -1,0 +1,5 @@
+python-annotated-types source: file-without-copyright-information
+python-annotated-types source: no-debian-changes
+python-annotated-types source: source-contains-prebuilt-windows-binary
+python-annotated-types source: source-is-missing
+python-annotated-types source: source-package-encodes-python-version
