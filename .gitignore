@@ -17,3 +17,5 @@ yarn-error.log*
 /TODO.md
 /.mypy_cache/
 /scratch/
+
+.pybuild/
